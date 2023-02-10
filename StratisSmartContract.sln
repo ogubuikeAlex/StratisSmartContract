@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StratisSmartContract", "StratisSmartContract\StratisSmartContract.csproj", "{7B1F6E39-58E0-4A96-B52D-411823B56E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContractSample", "SmartContractSample\SmartContractSample.csproj", "{C9099F4E-908D-4C1F-92D9-173BCB4603EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1F6E39-58E0-4A96-B52D-411823B56E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1F6E39-58E0-4A96-B52D-411823B56E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1F6E39-58E0-4A96-B52D-411823B56E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1F6E39-58E0-4A96-B52D-411823B56E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F62ABA6-DCA0-4F85-8D30-4A7F4A3510C7}
+	EndGlobalSection
+EndGlobal
