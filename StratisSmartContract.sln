@@ -5,7 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StratisSmartContract", "StratisSmartContract\StratisSmartContract.csproj", "{7B1F6E39-58E0-4A96-B52D-411823B56E26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContractSample", "SmartContractSample\SmartContractSample.csproj", "{C9099F4E-908D-4C1F-92D9-173BCB4603EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartContractSample", "SmartContractSample\SmartContractSample.csproj", "{C9099F4E-908D-4C1F-92D9-173BCB4603EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContractWithDotNet6", "SmartContractWithDotNet6\SmartContractWithDotNet6.csproj", "{82F71F6B-6711-4E3B-B4EF-755C403AEB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingContractTest", "VotingContractTest\VotingContractTest.csproj", "{CC107FA3-60A1-4B80-82B3-2B994B732A7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9099F4E-908D-4C1F-92D9-173BCB4603EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F71F6B-6711-4E3B-B4EF-755C403AEB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F71F6B-6711-4E3B-B4EF-755C403AEB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F71F6B-6711-4E3B-B4EF-755C403AEB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F71F6B-6711-4E3B-B4EF-755C403AEB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC107FA3-60A1-4B80-82B3-2B994B732A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC107FA3-60A1-4B80-82B3-2B994B732A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC107FA3-60A1-4B80-82B3-2B994B732A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC107FA3-60A1-4B80-82B3-2B994B732A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
