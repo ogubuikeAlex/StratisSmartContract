@@ -1,5 +1,4 @@
 ﻿using Stratis.SmartContracts;
-using System;
 
 public class MyContract : SmartContract
 {
@@ -19,3 +18,6 @@ public class MyContract : SmartContract
         return PersistentState.GetAddress("owner");
     }
 }
+
+
+//Contract Addresss : PLK3CkR79TckNxeTdbPWX5ipFjGcA1u5cg
